@@ -1,0 +1,2 @@
+This code is public under the Apache 2.0 permissive license. 
+We  warn users that we are using pyfftw 
