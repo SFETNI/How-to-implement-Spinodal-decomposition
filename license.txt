@@ -1,2 +1,6 @@
-This code is public under the Apache 2.0 permissive license. 
-We  warn users that we are using pyfftw 
+1 - This code is public under the Apache 2.0 permissive license. 
+2 - We  warn users that we are using pyfftw 
+
+3- If the code is used to develop/produce scientific papers, the researcher are kidly invited to cite the related article
+"S. Fetni, J. Delahaye, L. Duchêne, A. Mertens and A. Habraken, Adaptive time stepping approach for Phase-Field modeling of phase separation and precipitates coarsening in additive manufacturing alloys, in: complas2021"
+the doi will be available 
